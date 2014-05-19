@@ -1,0 +1,1 @@
+Header onsuccess add Set-Cookie "frontend='';expires='Mon, 05 Jul 2000 00:00:00 GMT';Path=/;HttpOnly;domain=.%{HTTP_HOST}e" env=HTTP_COOKIE
